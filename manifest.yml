@@ -7,6 +7,4 @@ applications:
   instances: 1
   memory: 256MB
   timeout: 180
-  random-route: true
-  routes:
-  - route: monitor-custom-ml.mybluemix.net
+  route: monitor-custom-ml
